@@ -1,0 +1,38 @@
+#userList,
+#postList {
+    width: 100%;
+}
+
+#postList .like {
+    display: block;
+    width: 30px;
+    height: 30px;
+    background: #fff;
+    border: 1px solid #E60000;
+    border-radius: 100%;
+}
+#postList .like.liked,
+#postList .like:hover {
+    cursor: pointer;
+    background: #E60000;
+}
+
+#catsMenu {
+    text-align: center;
+    margin: 20px 0;
+}
+#catsMenu div {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 10px;
+}
+#catsMenu div a {
+    display: block;
+    padding: 6px 8px;
+    color: #8A2BE2;
+}
+#catsMenu div.current a,
+#catsMenu div a:hover {
+    color: #fff;
+    background: #8A2BE2;
+}

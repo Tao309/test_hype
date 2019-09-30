@@ -1,0 +1,16 @@
+#page {
+    margin: 0 auto;
+    width: 1280px;
+}
+
+#taskMenu {
+    text-align: center;
+    list-style: none;
+}
+#taskMenu li {
+    margin: 1.4rem;
+}
+
+a {
+    text-decoration: none;
+}
