@@ -1,18 +1,3 @@
-/*
-Navicat MySQL Data Transfer
-
-Source Server         : tfl-nm v.2
-Source Server Version : 50641
-Source Host           : localhost:3306
-Source Database       : test_hype
-
-Target Server Type    : MYSQL
-Target Server Version : 50641
-File Encoding         : 65001
-
-Date: 2019-09-30 16:38:57
-*/
-
 SET FOREIGN_KEY_CHECKS=0;
 -- ----------------------------
 -- Table structure for `category`
