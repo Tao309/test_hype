@@ -1,7 +1,7 @@
 <?php
 
-//$url = $_SERVER['SERVER_NAME'];
-$url = $_SERVER['SERVER_NAME'].'/test_hype/';
+$url = $_SERVER['SERVER_NAME'];
+//$url = $_SERVER['SERVER_NAME'].'/test_hype/';
 
 define('ROOT', 'http://'.$url);
 define('zROOT', __DIR__);
